@@ -1,0 +1,25 @@
+customer_id,account_contact,billing_email,contact_number,organization,account_tier,contract_start,annual_budget_usd,customer_status
+CUST-0001,Meera Bose,billing001@example.com,+1-202-555-0141,Orchid Example Retail,Growth,2025-02-01,6250,paused
+CUST-0002,Ravi Das,billing002@example.com,+1-202-555-0142,Silver Pine Sample Co,Enterprise,2025-03-01,7500,active
+CUST-0003,Tara Nair,billing003@example.com,+1-202-555-0143,Northstar Demo Media,Starter,2025-04-01,8750,paused
+CUST-0004,Arun Patel,billing004@example.com,+1-202-555-0144,Orchid Example Retail,Growth,2025-05-01,10000,active
+CUST-0005,Isha Iyer,billing005@example.com,+1-202-555-0145,Silver Pine Sample Co,Enterprise,2025-06-01,11250,paused
+CUST-0006,Vikram Shah,billing006@example.com,+1-202-555-0146,Northstar Demo Media,Starter,2025-07-01,12500,active
+CUST-0007,Anu Rao,billing007@example.com,+1-202-555-0147,Orchid Example Retail,Growth,2025-08-01,13750,paused
+CUST-0008,Naveen Kapoor,billing008@example.com,+1-202-555-0148,Silver Pine Sample Co,Enterprise,2025-09-01,15000,active
+CUST-0009,Pooja Menon,billing009@example.com,+1-202-555-0149,Northstar Demo Media,Starter,2025-10-01,16250,paused
+CUST-0010,Sanjay Kumar,billing010@example.com,+1-202-555-0150,Orchid Example Retail,Growth,2025-11-01,17500,active
+CUST-0011,Diya Bose,billing011@example.com,+1-202-555-0151,Silver Pine Sample Co,Enterprise,2025-12-01,18750,paused
+CUST-0012,Mohan Das,billing012@example.com,+1-202-555-0152,Northstar Demo Media,Starter,2025-01-01,20000,active
+CUST-0013,Leela Nair,billing013@example.com,+1-202-555-0153,Orchid Example Retail,Growth,2025-02-01,21250,paused
+CUST-0014,Rahul Patel,billing014@example.com,+1-202-555-0154,Silver Pine Sample Co,Enterprise,2025-03-01,22500,active
+CUST-0015,Sara Iyer,billing015@example.com,+1-202-555-0155,Northstar Demo Media,Starter,2025-04-01,23750,paused
+CUST-0016,Ajay Shah,billing016@example.com,+1-202-555-0156,Orchid Example Retail,Growth,2025-05-01,25000,active
+CUST-0017,Asha Rao,billing017@example.com,+1-202-555-0157,Silver Pine Sample Co,Enterprise,2025-06-01,26250,paused
+CUST-0018,Kiran Kapoor,billing018@example.com,+1-202-555-0158,Northstar Demo Media,Starter,2025-07-01,27500,active
+CUST-0019,Nila Menon,billing019@example.com,+1-202-555-0159,Orchid Example Retail,Growth,2025-08-01,28750,paused
+CUST-0020,Dev Kumar,billing020@example.com,+1-202-555-0160,Silver Pine Sample Co,Enterprise,2025-09-01,30000,active
+CUST-0021,Meera Bose,billing021@example.com,+1-202-555-0161,Northstar Demo Media,Starter,2025-10-01,31250,paused
+CUST-0022,Ravi Das,billing022@example.com,+1-202-555-0162,Orchid Example Retail,Growth,2025-11-01,32500,active
+CUST-0023,Tara Nair,billing023@example.com,+1-202-555-0163,Silver Pine Sample Co,Enterprise,2025-12-01,33750,paused
+CUST-0024,Arun Patel,billing024@example.com,+1-202-555-0164,Northstar Demo Media,Starter,2025-01-01,35000,active

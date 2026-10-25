@@ -1,0 +1,12 @@
+source,column,true_class,label_origin,independent_review_status,rationale
+csv/holdout_test.csv,case_id,NONE,human_authored_design_label,pending,Defined by synthetic test schema
+csv/holdout_test.csv,primary_contact,PERSON_NAME,human_authored_design_label,pending,Defined by synthetic test schema
+csv/holdout_test.csv,contact_channel,EMAIL,human_authored_design_label,pending,Defined by synthetic test schema
+csv/holdout_test.csv,reach_number,PHONE,human_authored_design_label,pending,Defined by synthetic test schema
+csv/holdout_test.csv,dob_value,DATE_OF_BIRTH,human_authored_design_label,pending,Defined by synthetic test schema
+csv/holdout_test.csv,id_reference,GOVERNMENT_ID,human_authored_design_label,pending,Intentionally fictional government-ID surrogate
+csv/holdout_test.csv,campaign_name,NONE,human_authored_design_label,pending,"Campaign title, not a person"
+csv/holdout_test.csv,campaign_code,NONE,human_authored_design_label,pending,"Campaign code, not personal email"
+csv/holdout_test.csv,email_template,NONE,human_authored_design_label,pending,Generic campaign template address; not an individual contact
+csv/holdout_test.csv,event_date,NONE,human_authored_design_label,pending,"Event date, not birth date"
+csv/holdout_test.csv,revenue_usd,NONE,human_authored_design_label,pending,Defined by synthetic test schema

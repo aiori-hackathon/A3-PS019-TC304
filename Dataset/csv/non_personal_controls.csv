@@ -1,26 +1,19 @@
-item_name,contact_reference,phone_like_serial,event_date,location_label,score
-ITEM-001,SKU-0001,9000000001,2026-10-02,Building 1,11
-ITEM-002,SKU-0002,9000000002,2026-10-03,Building 2,22
-ITEM-003,SKU-0003,9000000003,2026-10-04,Building 3,33
-ITEM-004,SKU-0004,9000000004,2026-10-05,Building 4,44
-ITEM-005,SKU-0005,9000000005,2026-10-06,Building 5,55
-ITEM-006,SKU-0006,9000000006,2026-10-07,Building 6,66
-ITEM-007,SKU-0007,9000000007,2026-10-08,Building 7,77
-ITEM-008,SKU-0008,9000000008,2026-10-09,Building 8,88
-ITEM-009,SKU-0009,9000000009,2026-10-10,Building 9,99
-ITEM-010,SKU-0010,9000000010,2026-10-11,Building 10,110
-ITEM-011,SKU-0011,9000000011,2026-10-12,Building 11,121
-ITEM-012,SKU-0012,9000000012,2026-10-13,Building 12,132
-ITEM-013,SKU-0013,9000000013,2026-10-14,Building 13,143
-ITEM-014,SKU-0014,9000000014,2026-10-15,Building 14,154
-ITEM-015,SKU-0015,9000000015,2026-10-16,Building 15,165
-ITEM-016,SKU-0016,9000000016,2026-10-17,Building 16,176
-ITEM-017,SKU-0017,9000000017,2026-10-18,Building 17,187
-ITEM-018,SKU-0018,9000000018,2026-10-19,Building 18,198
-ITEM-019,SKU-0019,9000000019,2026-10-20,Building 19,209
-ITEM-020,SKU-0020,9000000020,2026-10-21,Building 20,220
-ITEM-021,SKU-0021,9000000021,2026-10-22,Building 21,231
-ITEM-022,SKU-0022,9000000022,2026-10-23,Building 22,242
-ITEM-023,SKU-0023,9000000023,2026-10-24,Building 23,253
-ITEM-024,SKU-0024,9000000024,2026-10-25,Building 24,264
-ITEM-025,SKU-0025,9000000025,2026-10-01,Building 25,275
+asset_id,campaign_name,phone_model,email_template,event_date,government_id_policy,birth_date_label,account_name,serial_number,revenue_usd
+AST-001,Name Your Future 1,Phone Model 1,none,2026-10-01,ID verification not collected,birthday-offer,Campaign Account 1,202-555-0001,1077
+AST-002,Name Your Future 2,Phone Model 2,none,2026-10-02,ID verification not collected,none,Campaign Account 2,202-555-0002,1154
+AST-003,Name Your Future 3,Phone Model 3,support@example.com,2026-10-03,ID verification not collected,birthday-offer,Campaign Account 3,202-555-0003,1231
+AST-004,Name Your Future 4,Phone Model 4,none,2026-10-04,ID verification not collected,none,Campaign Account 4,202-555-0004,1308
+AST-005,Name Your Future 5,Phone Model 5,none,2026-10-05,ID verification not collected,birthday-offer,Campaign Account 5,202-555-0005,1385
+AST-006,Name Your Future 6,Phone Model 6,support@example.com,2026-10-06,ID verification not collected,none,Campaign Account 6,202-555-0006,1462
+AST-007,Name Your Future 7,Phone Model 7,none,2026-10-07,ID verification not collected,birthday-offer,Campaign Account 7,202-555-0007,1539
+AST-008,Name Your Future 8,Phone Model 8,none,2026-10-08,ID verification not collected,none,Campaign Account 8,202-555-0008,1616
+AST-009,Name Your Future 9,Phone Model 9,support@example.com,2026-10-09,ID verification not collected,birthday-offer,Campaign Account 9,202-555-0009,1693
+AST-010,Name Your Future 10,Phone Model 10,none,2026-10-10,ID verification not collected,none,Campaign Account 10,202-555-0010,1770
+AST-011,Name Your Future 11,Phone Model 11,none,2026-10-11,ID verification not collected,birthday-offer,Campaign Account 11,202-555-0011,1847
+AST-012,Name Your Future 12,Phone Model 12,support@example.com,2026-10-12,ID verification not collected,none,Campaign Account 12,202-555-0012,1924
+AST-013,Name Your Future 13,Phone Model 13,none,2026-10-13,ID verification not collected,birthday-offer,Campaign Account 13,202-555-0013,2001
+AST-014,Name Your Future 14,Phone Model 14,none,2026-10-14,ID verification not collected,none,Campaign Account 14,202-555-0014,2078
+AST-015,Name Your Future 15,Phone Model 15,support@example.com,2026-10-15,ID verification not collected,birthday-offer,Campaign Account 15,202-555-0015,2155
+AST-016,Name Your Future 16,Phone Model 16,none,2026-10-16,ID verification not collected,none,Campaign Account 16,202-555-0016,2232
+AST-017,Name Your Future 17,Phone Model 17,none,2026-10-17,ID verification not collected,birthday-offer,Campaign Account 17,202-555-0017,2309
+AST-018,Name Your Future 18,Phone Model 18,support@example.com,2026-10-18,ID verification not collected,none,Campaign Account 18,202-555-0018,2386

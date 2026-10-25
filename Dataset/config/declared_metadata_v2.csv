@@ -1,0 +1,17 @@
+source,column,purpose,retention_rule,policy_version,review_owner
+marketing_leads,contact_name,Lead follow-up,24 months after last activity,v2,Privacy Team
+marketing_leads,work_email,Campaign outreach,12 months after last activity,v2,Privacy Team
+marketing_leads,mobile_phone,Sales callbacks,24 months after last activity,v2,Privacy Team
+marketing_leads,birth_date,Optional birthday promotion,,v2,Privacy Team
+marketing_leads,fictional_gov_id,,90 days after verification,v2,Privacy Team
+customers,account_contact,Account administration,36 months after contract end,v2,Privacy Team
+customers,billing_email,Account administration,36 months after contract end,v2,Privacy Team
+customers,contact_number,Account administration,36 months after contract end,v2,Privacy Team
+employees,employee_full_name,HR operations,12 months after employment ends,v2,Privacy Team
+employees,company_email,HR operations,12 months after employment ends,v2,Privacy Team
+employees,emergency_contact_phone,HR operations,,v2,Privacy Team
+employees,date_of_birth,HR operations,12 months after employment ends,v2,Privacy Team
+employees,demo_identity_token,,12 months after employment ends,v2,Privacy Team
+lead_interactions,agent_name,Campaign response tracking,18 months after interaction,v2,Privacy Team
+lead_interactions,reply_to_email,Campaign response tracking,18 months after interaction,v2,Privacy Team
+marketing_leads,secondary_email,,,v2,Privacy Team
