@@ -1,0 +1,11 @@
+{
+  "evaluation_unit": "column",
+  "classes": {
+    "PERSON_NAME": "Person name",
+    "EMAIL": "Email address",
+    "PHONE": "Phone number",
+    "DATE_OF_BIRTH": "Date of birth",
+    "GOVERNMENT_ID": "Synthetic government-ID-like field"
+  },
+  "government_id_note": "DEMO-ID values are fictional placeholders, not authentic government ID formats."
+}

@@ -1,0 +1,41 @@
+customer_id,full_name,email_address,contact_phone,date_of_birth,government_id_demo,city,order_total,discount_percent,product_code,backup_email
+C001,Aarav Rao,user001@example.com,+91 90000 00001,1986-02-02,DEMO-ID-00001,Madurai,101,11,P0001,user001@example.org
+C002,Diya Shah,user002@example.com,+91 90000 00002,1987-03-03,DEMO-ID-00002,Coimbatore,102,12,P0002,user002@example.org
+C003,Kabir Menon,user003@example.com,+91 90000 00003,1988-04-04,DEMO-ID-00003,Pune,103,13,P0003,
+C004,Meera Das,user004@example.com,+91 90000 00004,1989-05-05,DEMO-ID-00004,Kochi,104,14,P0004,user004@example.org
+C005,Ishaan Nair,user005@example.com,+91 90000 00005,1990-06-06,DEMO-ID-00005,Jaipur,105,15,P0005,user005@example.org
+C006,Anaya Bose,user006@example.com,+91 90000 00006,1991-07-07,,Chennai,106,10,P0006,
+C007,Vihaan Iyer,user007@example.com,+91 90000 00007,,DEMO-ID-00007,Madurai,107,11,P0007,user007@example.org
+C008,Tara Kapoor,user008@example.com,,1993-09-09,DEMO-ID-00008,Coimbatore,108,12,P0008,user008@example.org
+C009,Rohan Joshi,not-provided,+91 90000 00009,1994-10-10,DEMO-ID-00009,Pune,109,13,P0009,
+C010,Nisha Khan,user010@example.com,+91 90000 00010,1995-11-11,DEMO-ID-00010,Kochi,110,14,P0010,user010@example.org
+C011,Dev Rao,user011@example.com,+91 90000 00011,1996-12-12,DEMO-ID-00011,Jaipur,111,15,P0011,user011@example.org
+C012,Ira Shah,user012@example.com,+91 90000 00012,1997-01-13,,Chennai,112,10,P0012,
+C013,Kiran Menon,user013@example.com,+91 90000 00013,1998-02-14,DEMO-ID-00013,Madurai,113,11,P0013,user013@example.org
+C014,Sana Das,user014@example.com,+91 90000 00014,,DEMO-ID-00014,Coimbatore,114,12,P0014,user014@example.org
+C015,Arjun Nair,user015@example.com,+91 90000 00015,2000-04-16,DEMO-ID-00015,Pune,115,13,P0015,
+C016,Leela Bose,user016@example.com,,2001-05-17,DEMO-ID-00016,Kochi,116,14,P0016,user016@example.org
+C017,Maya Iyer,user017@example.com,+91 90000 00017,2002-06-18,DEMO-ID-00017,Jaipur,117,15,P0017,user017@example.org
+C018,Neel Kapoor,not-provided,+91 90000 00018,1985-07-19,,Chennai,118,10,P0018,
+C019,Riya Joshi,user019@example.com,+91 90000 00019,1986-08-20,DEMO-ID-00019,Madurai,119,11,P0019,user019@example.org
+C020,Om Khan,user020@example.com,+91 90000 00020,1987-09-21,DEMO-ID-00020,Coimbatore,120,12,P0020,user020@example.org
+C021,Aarav Rao,user021@example.com,+91 90000 00021,,DEMO-ID-00021,Pune,121,13,P0021,
+C022,Diya Shah,user022@example.com,+91 90000 00022,1989-11-23,DEMO-ID-00022,Kochi,122,14,P0022,user022@example.org
+C023,Kabir Menon,user023@example.com,+91 90000 00023,1990-12-24,DEMO-ID-00023,Jaipur,123,15,P0023,user023@example.org
+C024,Meera Das,user024@example.com,,1991-01-25,,Chennai,124,10,P0024,
+C025,Ishaan Nair,user025@example.com,+91 90000 00025,1992-02-26,DEMO-ID-00025,Madurai,125,11,P0025,user025@example.org
+C026,Anaya Bose,user026@example.com,+91 90000 00026,1993-03-27,DEMO-ID-00026,Coimbatore,126,12,P0026,user026@example.org
+C027,Vihaan Iyer,not-provided,+91 90000 00027,1994-04-01,DEMO-ID-00027,Pune,127,13,P0027,
+C028,Tara Kapoor,user028@example.com,+91 90000 00028,,DEMO-ID-00028,Kochi,128,14,P0028,user028@example.org
+C029,Rohan Joshi,user029@example.com,+91 90000 00029,1996-06-03,DEMO-ID-00029,Jaipur,129,15,P0029,user029@example.org
+C030,Nisha Khan,user030@example.com,+91 90000 00030,1997-07-04,,Chennai,130,10,P0030,
+C031,Dev Rao,user031@example.com,+91 90000 00031,1998-08-05,DEMO-ID-00031,Madurai,131,11,P0031,user031@example.org
+C032,Ira Shah,user032@example.com,,1999-09-06,DEMO-ID-00032,Coimbatore,132,12,P0032,user032@example.org
+C033,Kiran Menon,user033@example.com,+91 90000 00033,2000-10-07,DEMO-ID-00033,Pune,133,13,P0033,
+C034,Sana Das,user034@example.com,+91 90000 00034,2001-11-08,DEMO-ID-00034,Kochi,134,14,P0034,user034@example.org
+C035,Arjun Nair,user035@example.com,+91 90000 00035,,DEMO-ID-00035,Jaipur,135,15,P0035,user035@example.org
+C036,Leela Bose,not-provided,+91 90000 00036,1985-01-10,,Chennai,136,10,P0036,
+C037,Maya Iyer,user037@example.com,+91 90000 00037,1986-02-11,DEMO-ID-00037,Madurai,137,11,P0037,user037@example.org
+C038,Neel Kapoor,user038@example.com,+91 90000 00038,1987-03-12,DEMO-ID-00038,Coimbatore,138,12,P0038,user038@example.org
+C039,Riya Joshi,user039@example.com,+91 90000 00039,1988-04-13,DEMO-ID-00039,Pune,139,13,P0039,
+C040,Om Khan,user040@example.com,,1989-05-14,DEMO-ID-00040,Kochi,140,14,P0040,user040@example.org
