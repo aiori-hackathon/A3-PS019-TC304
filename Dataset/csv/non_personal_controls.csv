@@ -1,0 +1,19 @@
+asset_id,campaign_name,phone_model,email_template,event_date,government_id_policy,birth_date_label,account_name,serial_number,revenue_usd
+AST-001,Name Your Future 1,Phone Model 1,none,2026-10-01,ID verification not collected,birthday-offer,Campaign Account 1,202-555-0001,1077
+AST-002,Name Your Future 2,Phone Model 2,none,2026-10-02,ID verification not collected,none,Campaign Account 2,202-555-0002,1154
+AST-003,Name Your Future 3,Phone Model 3,support@example.com,2026-10-03,ID verification not collected,birthday-offer,Campaign Account 3,202-555-0003,1231
+AST-004,Name Your Future 4,Phone Model 4,none,2026-10-04,ID verification not collected,none,Campaign Account 4,202-555-0004,1308
+AST-005,Name Your Future 5,Phone Model 5,none,2026-10-05,ID verification not collected,birthday-offer,Campaign Account 5,202-555-0005,1385
+AST-006,Name Your Future 6,Phone Model 6,support@example.com,2026-10-06,ID verification not collected,none,Campaign Account 6,202-555-0006,1462
+AST-007,Name Your Future 7,Phone Model 7,none,2026-10-07,ID verification not collected,birthday-offer,Campaign Account 7,202-555-0007,1539
+AST-008,Name Your Future 8,Phone Model 8,none,2026-10-08,ID verification not collected,none,Campaign Account 8,202-555-0008,1616
+AST-009,Name Your Future 9,Phone Model 9,support@example.com,2026-10-09,ID verification not collected,birthday-offer,Campaign Account 9,202-555-0009,1693
+AST-010,Name Your Future 10,Phone Model 10,none,2026-10-10,ID verification not collected,none,Campaign Account 10,202-555-0010,1770
+AST-011,Name Your Future 11,Phone Model 11,none,2026-10-11,ID verification not collected,birthday-offer,Campaign Account 11,202-555-0011,1847
+AST-012,Name Your Future 12,Phone Model 12,support@example.com,2026-10-12,ID verification not collected,none,Campaign Account 12,202-555-0012,1924
+AST-013,Name Your Future 13,Phone Model 13,none,2026-10-13,ID verification not collected,birthday-offer,Campaign Account 13,202-555-0013,2001
+AST-014,Name Your Future 14,Phone Model 14,none,2026-10-14,ID verification not collected,none,Campaign Account 14,202-555-0014,2078
+AST-015,Name Your Future 15,Phone Model 15,support@example.com,2026-10-15,ID verification not collected,birthday-offer,Campaign Account 15,202-555-0015,2155
+AST-016,Name Your Future 16,Phone Model 16,none,2026-10-16,ID verification not collected,none,Campaign Account 16,202-555-0016,2232
+AST-017,Name Your Future 17,Phone Model 17,none,2026-10-17,ID verification not collected,birthday-offer,Campaign Account 17,202-555-0017,2309
+AST-018,Name Your Future 18,Phone Model 18,support@example.com,2026-10-18,ID verification not collected,none,Campaign Account 18,202-555-0018,2386

@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,budget_usd,impressions,clicks,conversion_rate,start_date,end_date,account_manager_role,tracking_email_template
+CMP-001,Holiday Retargeting,Paid Search,3500,14300,247,1.23,2026-09-01,2026-10-05,Marketing Lead,hello@brand.example
+CMP-002,Brand Awareness,Social,5000,16600,294,1.46,2026-09-02,2026-10-06,Marketing Lead,hello@brand.example
+CMP-003,Lead Nurture,Display,6500,18900,341,1.69,2026-09-03,2026-10-07,Marketing Lead,hello@brand.example
+CMP-004,Autumn Launch,Email,8000,21200,388,1.92,2026-09-04,2026-10-08,Marketing Lead,hello@brand.example
+CMP-005,Holiday Retargeting,Paid Search,9500,23500,435,2.15,2026-09-05,2026-10-09,Marketing Lead,hello@brand.example
+CMP-006,Brand Awareness,Social,11000,25800,482,2.38,2026-09-06,2026-10-10,Marketing Lead,hello@brand.example
+CMP-007,Lead Nurture,Display,12500,28100,529,2.61,2026-09-07,2026-10-11,Marketing Lead,hello@brand.example
+CMP-008,Autumn Launch,Email,14000,30400,576,2.84,2026-09-08,2026-10-12,Marketing Lead,hello@brand.example

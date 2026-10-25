@@ -1,0 +1,13 @@
+case_id,primary_contact,contact_channel,reach_number,dob_value,id_reference,campaign_name,campaign_code,email_template,event_date,revenue_usd
+TEST-001,Dev Kumar,test001@example.com,+1-202-555-0113,1991-02-02,FICTIONAL-ID-00201,Phone-first outreach 1,EMAIL-001,welcome@example.com,2026-10-01,120
+TEST-002,Meera Bose,test002@example.com,+1-202-555-0114,1992-03-03,FICTIONAL-ID-00202,Phone-first outreach 2,EMAIL-002,welcome@example.com,2026-10-02,140
+TEST-003,Ravi Das,test003@example.com,+1-202-555-0115,1993-04-04,FICTIONAL-ID-00203,Phone-first outreach 3,EMAIL-003,welcome@example.com,2026-10-03,160
+TEST-004,Tara Nair,test004@example.com,+1-202-555-0116,1994-05-05,FICTIONAL-ID-00204,Phone-first outreach 4,EMAIL-004,welcome@example.com,2026-10-04,180
+TEST-005,Arun Patel,test005@example.com,+1-202-555-0117,1995-06-06,FICTIONAL-ID-00205,Phone-first outreach 5,EMAIL-005,welcome@example.com,2026-10-05,200
+TEST-006,Isha Iyer,test006@example.com,+1-202-555-0118,1996-07-07,FICTIONAL-ID-00206,Phone-first outreach 6,EMAIL-006,welcome@example.com,2026-10-06,220
+TEST-007,Vikram Shah,test007@example.com,+1-202-555-0119,1997-08-08,FICTIONAL-ID-00207,Phone-first outreach 7,EMAIL-007,welcome@example.com,2026-10-07,240
+TEST-008,Anu Rao,test008@example.com,+1-202-555-0120,1998-09-09,FICTIONAL-ID-00208,Phone-first outreach 8,EMAIL-008,welcome@example.com,2026-10-08,260
+TEST-009,Naveen Kapoor,test009@example.com,+1-202-555-0121,1999-10-10,FICTIONAL-ID-00209,Phone-first outreach 9,EMAIL-009,welcome@example.com,2026-10-09,280
+TEST-010,Pooja Menon,test010@example.com,+1-202-555-0122,2000-11-11,FICTIONAL-ID-00210,Phone-first outreach 10,EMAIL-010,welcome@example.com,2026-10-10,300
+TEST-011,Sanjay Kumar,test011@example.com,+1-202-555-0123,2001-12-12,FICTIONAL-ID-00211,Phone-first outreach 11,EMAIL-011,welcome@example.com,2026-10-11,320
+TEST-012,Diya Bose,test012@example.com,+1-202-555-0124,1990-01-13,FICTIONAL-ID-00212,Phone-first outreach 12,EMAIL-012,welcome@example.com,2026-10-12,340

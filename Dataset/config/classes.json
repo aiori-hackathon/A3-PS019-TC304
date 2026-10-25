@@ -1,0 +1,12 @@
+{
+  "evaluation_unit": "column",
+  "classes": {
+    "PERSON_NAME": "Name of an individual, not an organization or campaign",
+    "EMAIL": "Individual contact email, not a generic campaign template address",
+    "PHONE": "Individual contact phone, not a product label or serial",
+    "DATE_OF_BIRTH": "Date of birth of a person, not an event date",
+    "GOVERNMENT_ID": "Fictional government-ID surrogate; not a valid real government ID"
+  },
+  "negative_label": "NONE",
+  "note": "PS-019 specifies five classes but does not name them; these are proposed project classes."
+}

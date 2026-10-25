@@ -1,0 +1,37 @@
+lead_id,contact_name,work_email,mobile_phone,birth_date,fictional_gov_id,company_name,campaign_id,lead_source,lead_score,consent_status,created_at,product_code,region
+LEAD-0001,Kiran Kapoor,lead001@example.com,+1-202-555-0101,1981-02-02,FICTIONAL-ID-00001,Orchid Example Retail,CMP-002,Search Ads,31,pending,2026-09-02,PHONE-0001,West
+LEAD-0002,Nila Menon,lead002@example.com,+1-202-555-0102,1982-03-03,FICTIONAL-ID-00002,Silver Pine Sample Co,CMP-003,Referral,42,opt_out,2026-09-03,PHONE-0002,North
+LEAD-0003,Dev Kumar,lead003@example.com,+1-202-555-0103,1983-04-04,FICTIONAL-ID-00003,Northstar Demo Media,CMP-004,Landing Page,53,opt_in,2026-09-04,PHONE-0003,South
+LEAD-0004,Meera Bose,lead004@example.com,+1-202-555-0104,1984-05-05,FICTIONAL-ID-00004,Orchid Example Retail,CMP-001,Webinar,64,pending,2026-09-05,PHONE-0004,West
+LEAD-0005,Ravi Das,lead005@example.com,+1-202-555-0105,1985-06-06,FICTIONAL-ID-00005,Silver Pine Sample Co,CMP-002,Search Ads,75,opt_out,2026-09-06,PHONE-0005,North
+LEAD-0006,Tara Nair,lead006@example.com,+1-202-555-0106,1986-07-07,FICTIONAL-ID-00006,Northstar Demo Media,CMP-003,Referral,86,opt_in,2026-09-07,PHONE-0006,South
+LEAD-0007,Arun Patel,lead007@example.com,+1-202-555-0107,1987-08-08,FICTIONAL-ID-00007,Orchid Example Retail,CMP-004,Landing Page,97,pending,2026-09-08,PHONE-0007,West
+LEAD-0008,Isha Iyer,lead008@example.com,+1-202-555-0108,1988-09-09,FICTIONAL-ID-00008,Silver Pine Sample Co,CMP-001,Webinar,30,opt_out,2026-09-09,PHONE-0008,North
+LEAD-0009,Vikram Shah,lead009@example.com,+1-202-555-0109,1989-10-10,FICTIONAL-ID-00009,Northstar Demo Media,CMP-002,Search Ads,41,opt_in,2026-09-10,PHONE-0009,South
+LEAD-0010,Anu Rao,lead010@example.com,+1-202-555-0110,1990-11-11,FICTIONAL-ID-00010,Orchid Example Retail,CMP-003,Referral,52,pending,2026-09-11,PHONE-0010,West
+LEAD-0011,Naveen Kapoor,lead011@example.com,+1-202-555-0111,1991-12-12,FICTIONAL-ID-00011,Silver Pine Sample Co,CMP-004,Landing Page,63,opt_out,2026-09-12,PHONE-0011,North
+LEAD-0012,Pooja Menon,lead012@example.com,+1-202-555-0112,1992-01-13,FICTIONAL-ID-00012,Northstar Demo Media,CMP-001,Webinar,74,opt_in,2026-09-13,PHONE-0012,South
+LEAD-0013,Sanjay Kumar,lead013@example.com,+1-202-555-0113,1993-02-14,FICTIONAL-ID-00013,Orchid Example Retail,CMP-002,Search Ads,85,pending,2026-09-14,PHONE-0013,West
+LEAD-0014,Diya Bose,lead014@example.com,+1-202-555-0114,1994-03-15,FICTIONAL-ID-00014,Silver Pine Sample Co,CMP-003,Referral,96,opt_out,2026-09-15,PHONE-0014,North
+LEAD-0015,Mohan Das,lead015@example.com,+1-202-555-0115,1995-04-16,FICTIONAL-ID-00015,Northstar Demo Media,CMP-004,Landing Page,29,opt_in,2026-09-16,PHONE-0015,South
+LEAD-0016,Leela Nair,lead016@example.com,+1-202-555-0116,1996-05-17,FICTIONAL-ID-00016,Orchid Example Retail,CMP-001,Webinar,40,pending,2026-09-17,PHONE-0016,West
+LEAD-0017,Rahul Patel,lead017@example.com,+1-202-555-0117,1997-06-18,FICTIONAL-ID-00017,Silver Pine Sample Co,CMP-002,Search Ads,51,opt_out,2026-09-18,PHONE-0017,North
+LEAD-0018,Sara Iyer,lead018@example.com,+1-202-555-0118,1998-07-19,FICTIONAL-ID-00018,Northstar Demo Media,CMP-003,Referral,62,opt_in,2026-09-19,PHONE-0018,South
+LEAD-0019,Ajay Shah,lead019@example.com,+1-202-555-0119,1999-08-20,FICTIONAL-ID-00019,Orchid Example Retail,CMP-004,Landing Page,73,pending,2026-09-20,PHONE-0019,West
+LEAD-0020,Asha Rao,lead020@example.com,+1-202-555-0120,2000-09-21,FICTIONAL-ID-00020,Silver Pine Sample Co,CMP-001,Webinar,84,opt_out,2026-09-21,PHONE-0020,North
+LEAD-0021,Kiran Kapoor,lead021@example.com,+1-202-555-0121,2001-10-22,FICTIONAL-ID-00021,Northstar Demo Media,CMP-002,Search Ads,95,opt_in,2026-09-22,PHONE-0021,South
+LEAD-0022,Nila Menon,lead022@example.com,+1-202-555-0122,1980-11-23,FICTIONAL-ID-00022,Orchid Example Retail,CMP-003,Referral,28,pending,2026-09-23,PHONE-0022,West
+LEAD-0023,Dev Kumar,lead023@example.com,+1-202-555-0123,1981-12-24,FICTIONAL-ID-00023,Silver Pine Sample Co,CMP-004,Landing Page,39,opt_out,2026-09-24,PHONE-0023,North
+LEAD-0024,Meera Bose,lead024@example.com,+1-202-555-0124,1982-01-25,FICTIONAL-ID-00024,Northstar Demo Media,CMP-001,Webinar,50,opt_in,2026-09-25,PHONE-0024,South
+LEAD-0025,Ravi Das,lead025@example.com,+1-202-555-0125,1983-02-26,FICTIONAL-ID-00025,Orchid Example Retail,CMP-002,Search Ads,61,pending,2026-09-26,PHONE-0025,West
+LEAD-0026,Tara Nair,lead026@example.com,+1-202-555-0126,1984-03-27,FICTIONAL-ID-00026,Silver Pine Sample Co,CMP-003,Referral,72,opt_out,2026-09-27,PHONE-0026,North
+LEAD-0027,Arun Patel,lead027@example.com,+1-202-555-0127,1985-04-01,FICTIONAL-ID-00027,Northstar Demo Media,CMP-004,Landing Page,83,opt_in,2026-09-01,PHONE-0027,South
+LEAD-0028,Isha Iyer,lead028@example.com,+1-202-555-0128,1986-05-02,FICTIONAL-ID-00028,Orchid Example Retail,CMP-001,Webinar,94,pending,2026-09-02,PHONE-0028,West
+LEAD-0029,Vikram Shah,lead029@example.com,+1-202-555-0129,1987-06-03,FICTIONAL-ID-00029,Silver Pine Sample Co,CMP-002,Search Ads,27,opt_out,2026-09-03,PHONE-0029,North
+LEAD-0030,Anu Rao,lead030@example.com,+1-202-555-0130,1988-07-04,FICTIONAL-ID-00030,Northstar Demo Media,CMP-003,Referral,38,opt_in,2026-09-04,PHONE-0030,South
+LEAD-0031,Naveen Kapoor,lead031@example.com,+1-202-555-0131,1989-08-05,FICTIONAL-ID-00031,Orchid Example Retail,CMP-004,Landing Page,49,pending,2026-09-05,PHONE-0031,West
+LEAD-0032,Pooja Menon,lead032@example.com,+1-202-555-0132,1990-09-06,FICTIONAL-ID-00032,Silver Pine Sample Co,CMP-001,Webinar,60,opt_out,2026-09-06,PHONE-0032,North
+LEAD-0033,Sanjay Kumar,lead033@example.com,+1-202-555-0133,1991-10-07,FICTIONAL-ID-00033,Northstar Demo Media,CMP-002,Search Ads,71,opt_in,2026-09-07,PHONE-0033,South
+LEAD-0034,Diya Bose,lead034@example.com,+1-202-555-0134,1992-11-08,FICTIONAL-ID-00034,Orchid Example Retail,CMP-003,Referral,82,pending,2026-09-08,PHONE-0034,West
+LEAD-0035,Mohan Das,lead035@example.com,+1-202-555-0135,1993-12-09,FICTIONAL-ID-00035,Silver Pine Sample Co,CMP-004,Landing Page,93,opt_out,2026-09-09,PHONE-0035,North
+LEAD-0036,Leela Nair,lead036@example.com,+1-202-555-0136,1994-01-10,FICTIONAL-ID-00036,Northstar Demo Media,CMP-001,Webinar,26,opt_in,2026-09-10,PHONE-0036,South

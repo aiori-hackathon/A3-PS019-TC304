@@ -1,0 +1,17 @@
+employee_code,employee_full_name,company_email,emergency_contact_phone,date_of_birth,demo_identity_token,department,job_title,start_date,desk_extension
+EMP-001,Arun Patel,staff001@example.com,+1-202-555-0166,1986-02-02,FICTIONAL-ID-00101,Sales,Account Manager,2024-02-15,301
+EMP-002,Isha Iyer,staff002@example.com,+1-202-555-0167,1987-03-03,FICTIONAL-ID-00102,Analytics,Analyst,2024-03-15,302
+EMP-003,Vikram Shah,staff003@example.com,+1-202-555-0168,1988-04-04,FICTIONAL-ID-00103,HR,Recruiter,2024-04-15,303
+EMP-004,Anu Rao,staff004@example.com,+1-202-555-0169,1989-05-05,FICTIONAL-ID-00104,Creative,Designer,2024-05-15,304
+EMP-005,Naveen Kapoor,staff005@example.com,+1-202-555-0170,1990-06-06,FICTIONAL-ID-00105,Sales,Account Manager,2024-06-15,305
+EMP-006,Pooja Menon,staff006@example.com,+1-202-555-0171,1991-07-07,FICTIONAL-ID-00106,Analytics,Analyst,2024-07-15,306
+EMP-007,Sanjay Kumar,staff007@example.com,+1-202-555-0172,1992-08-08,FICTIONAL-ID-00107,HR,Recruiter,2024-08-15,307
+EMP-008,Diya Bose,staff008@example.com,+1-202-555-0173,1993-09-09,FICTIONAL-ID-00108,Creative,Designer,2024-09-15,308
+EMP-009,Mohan Das,staff009@example.com,+1-202-555-0174,1994-10-10,FICTIONAL-ID-00109,Sales,Account Manager,2024-10-15,309
+EMP-010,Leela Nair,staff010@example.com,+1-202-555-0175,1995-11-11,FICTIONAL-ID-00110,Analytics,Analyst,2024-11-15,310
+EMP-011,Rahul Patel,staff011@example.com,+1-202-555-0176,1996-12-12,FICTIONAL-ID-00111,HR,Recruiter,2024-12-15,311
+EMP-012,Sara Iyer,staff012@example.com,+1-202-555-0177,1997-01-13,FICTIONAL-ID-00112,Creative,Designer,2024-01-15,312
+EMP-013,Ajay Shah,staff013@example.com,+1-202-555-0178,1998-02-14,FICTIONAL-ID-00113,Sales,Account Manager,2024-02-15,313
+EMP-014,Asha Rao,staff014@example.com,+1-202-555-0179,1999-03-15,FICTIONAL-ID-00114,Analytics,Analyst,2024-03-15,314
+EMP-015,Kiran Kapoor,staff015@example.com,+1-202-555-0180,1985-04-16,FICTIONAL-ID-00115,HR,Recruiter,2024-04-15,315
+EMP-016,Nila Menon,staff016@example.com,+1-202-555-0181,1986-05-17,FICTIONAL-ID-00116,Creative,Designer,2024-05-15,316
