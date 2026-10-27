@@ -1,4 +1,4 @@
-# Privacy Drift Radar — Marketing Company Synthetic Dataset
+# DataPulse — Marketing Company Synthetic Dataset
 
 **Scenario:** fictional digital marketing agency **LumenReach Demo Marketing**. This package replaces the earlier generic-company sample with related marketing leads, customers, campaigns, employee data and SQL campaign interactions. Designed for PS-019. No real people or actual government identifiers are intended. Example emails use the reserved `example.com` domain; phone numbers use the reserved US 202-555-01xx fictional range. Government IDs are **FICTIONAL-ID-xxxxx** markers, not government-issued formats.
 
@@ -58,7 +58,7 @@ This is a small **column-level** holdout with one positive column per category; 
 Extract this folder into your team's private repository and commit the files. Only one `.sqlite` file is included. Avoid committing `.env`, database credentials, or real customer information.
 
 ```bash
-git add privacy_drift_radar_marketing_dataset
+git add Dataset
 git commit -m "Add marketing-company synthetic PS-019 datasets"
 git push
 ```

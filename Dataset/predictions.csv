@@ -1,0 +1,12 @@
+source,column,predicted_class
+csv/holdout_test.csv,case_id,NONE
+csv/holdout_test.csv,primary_contact,PERSON_NAME
+csv/holdout_test.csv,contact_channel,EMAIL
+csv/holdout_test.csv,reach_number,PHONE
+csv/holdout_test.csv,dob_value,DATE_OF_BIRTH
+csv/holdout_test.csv,id_reference,GOVERNMENT_ID
+csv/holdout_test.csv,campaign_name,NONE
+csv/holdout_test.csv,campaign_code,NONE
+csv/holdout_test.csv,email_template,NONE
+csv/holdout_test.csv,event_date,NONE
+csv/holdout_test.csv,revenue_usd,NONE
