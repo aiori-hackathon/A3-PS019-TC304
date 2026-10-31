@@ -36,5 +36,5 @@ INVENTORY_DB_PATH = APP_DATA_DIR / "privacy_inventory.sqlite"
 FRONTEND_DIR = PROJECT_ROOT / "src" / "frontend"
 
 # Server configuration
-SERVER_HOST = "127.0.0.1"
-SERVER_PORT = 8000
+SERVER_HOST = "0.0.0.0"
+SERVER_PORT = int(os.environ.get("PORT", 8000))

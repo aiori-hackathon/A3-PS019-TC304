@@ -18,14 +18,17 @@ def mask_email(val: str) -> str:
     return f"{masked_user}@{domain}"
 
 def mask_phone(val: str) -> str:
-    """Mask central phone digits: +1-202-***-0141"""
+    """Mask all phone digits except the last four."""
     if not val:
         return "[MASKED PHONE]"
+
     clean = str(val).strip()
-    if len(clean) < 7:
+    digits = re.sub(r"\D", "", clean)
+
+    if len(digits) < 7:
         return "***-****"
-    # Keep country/area code and last 4 digits
-    return re.sub(r"(\d{3})[-.\s]?(\d{3,4})", r"***-\2", clean)
+
+    return "*" * (len(digits) - 4) + digits[-4:]
 
 def mask_name(val: str) -> str:
     """Mask person name: John Doe -> J*** D**"""
@@ -44,11 +47,15 @@ def mask_dob(val: str) -> str:
     """Mask month and day of birth date: 1985-**-**"""
     if not val:
         return "[MASKED DOB]"
+
     clean = str(val).strip()
-    # Match YYYY-MM-DD or YYYY/MM/DD
-    m = re.match(r"^(\d{4})[-/.](.*)$", clean)
+
+    # Match YYYY-MM-DD, YYYY/MM/DD, or YYYY.MM.DD
+    m = re.match(r"^(\d{4})[-/.].*$", clean)
+
     if m:
         return f"{m.group(1)}-**-**"
+
     return "****-**-**"
 
 def mask_gov_id(val: str) -> str:

@@ -21,9 +21,13 @@ class SystemEvaluator:
 
     def __init__(self):
         self.scanner = PersonalDataScanner()
-        with open(CLASSES_JSON_PATH, "r", encoding="utf-8") as f:
-            cfg = json.load(f)
-        self.classes = list(cfg.get("classes", {}).keys())
+
+        if CLASSES_JSON_PATH.exists():
+            with open(CLASSES_JSON_PATH, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+            self.classes = list(cfg.get("classes", {}).keys())
+        else:
+            self.classes = list(self.scanner.classes.keys())
 
     def evaluate_holdout(self) -> Dict[str, Any]:
         """
@@ -148,7 +152,12 @@ class SystemEvaluator:
                     conn = sqlite3.connect(sql_db_path)
                     cur = conn.cursor()
                     try:
-                        cur.execute(f"SELECT [{col}] FROM [{tbl}] LIMIT 100")
+                        safe_col = col.replace("]", "]]")
+                        safe_tbl = tbl.replace("]", "]]")
+
+                        cur.execute(
+                            f"SELECT [{safe_col}] FROM [{safe_tbl}] LIMIT 100"
+                        )
                         sample_vals = [r[0] for r in cur.fetchall()]
                     except Exception:
                         sample_vals = []
