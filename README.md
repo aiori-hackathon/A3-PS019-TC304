@@ -17,8 +17,8 @@
 ---
 ### Presentation and Architecture Documentation
 
-- **YouTube Presentation:** https://youtu.be/m6gh2KkUAQU
-- **Project Proposal Document:** https://github.com/aiori-hackathon/A3-PS019-TC304/blob/main/src/Proposed-structure-hackathon.pdf
+- **YouTube Presentation:** [Introduction Video](https://youtu.be/m6gh2KkUAQU) 
+- **Project Proposal Document:** [View PDF](https://github.com/aiori-hackathon/A3-PS019-TC304/blob/main/src/Proposed-structure-hackathon.pdf)  
 
 ---
 
