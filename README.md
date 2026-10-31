@@ -1,11 +1,11 @@
 # DataPulse — Personal-Data Discovery & Privacy Evidence Inventory
 
-**Problem Statement:** PS-019 — Personal-Data Discovery and Privacy Evidence Inventory
-**Hackathon:** AIORI 3
-**Team Name:** Forge
-**Team Code:** A3-PS019-TC304
-**Institution:** Muthoot Institute of Technology and Science
-**Faculty Mentor:** Sheena Kurian K
+**Problem Statement:** PS-019 — Personal-Data Discovery and Privacy Evidence Inventory  
+**Hackathon:** AIORI 3  
+**Team Name:** Forge  
+**Team Code:** A3-PS019-TC304  
+**Institution:** Muthoot Institute of Technology and Science  
+**Faculty Mentor:** Sheena Kurian K  
 
 ### Team Members
 
