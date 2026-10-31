@@ -82,13 +82,7 @@ The current implementation supports SQLite databases and structured CSV collecti
 
 ## 3. Live Deployment
 
-**Deployed Application:** [Add the live DataPulse URL here]
-
-> Replace the placeholder below with the public URL after successfully deploying the application.
-
-```text
-https://your-deployed-datapulse-url
-```
+**Deployed Application:** https://datapulse-cm5t.onrender.com/
 
 **Local Application URL:** [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
